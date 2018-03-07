@@ -1,3 +1,5 @@
+//Carlos Javier Pérez Sánchez
+
 #include <iostream>
 using namespace std;
 #include <conio.h> // getch
