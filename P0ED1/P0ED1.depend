@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1520450997 source:c:\users\icarl\desktop\ed1\p0ed1\p0ed1\complejo.cpp
+	"complejo.h"
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1520450997 c:\users\icarl\desktop\ed1\p0ed1\p0ed1\complejo.h
+
+1520451150 source:c:\users\icarl\desktop\ed1\p0ed1\p0ed1\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"quebrado.h"
+	"complejo.h"
+	"matriz.h"
+
+1520450997 c:\users\icarl\desktop\ed1\p0ed1\p0ed1\quebrado.h
+
+1520451239 c:\users\icarl\desktop\ed1\p0ed1\p0ed1\matriz.h
+	"quebrado.h"
+	"complejo.h"
+
+1520447266 source:c:\users\icarl\desktop\ed1\p0ed1\p0ed1\p0.cpp
+	"p0.h"
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1520447266 c:\users\icarl\desktop\ed1\p0ed1\p0ed1\p0.h
+
+1520450997 source:c:\users\icarl\desktop\ed1\p0ed1\p0ed1\matriz.cpp
+	"matriz.h"
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1520450997 source:c:\users\icarl\desktop\ed1\p0ed1\p0ed1\quebrado.cpp
+	"quebrado.h"
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
