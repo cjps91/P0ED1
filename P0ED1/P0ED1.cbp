@@ -32,9 +32,17 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="complejo.cpp" />
+		<Unit filename="complejo.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="matriz.cpp" />
+		<Unit filename="matriz.h" />
+		<Unit filename="numeros.dat" />
+		<Unit filename="numeros.txt" />
 		<Unit filename="p0.cpp" />
 		<Unit filename="p0.h" />
+		<Unit filename="quebrado.cpp" />
+		<Unit filename="quebrado.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
